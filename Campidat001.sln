@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Campidat001", "Campidat001\Campidat001.csproj", "{EDED2D32-521D-4093-9B82-D5F207F1353E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDED2D32-521D-4093-9B82-D5F207F1353E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDED2D32-521D-4093-9B82-D5F207F1353E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDED2D32-521D-4093-9B82-D5F207F1353E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDED2D32-521D-4093-9B82-D5F207F1353E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B645760D-E305-486F-B91E-89423B024841}
+	EndGlobalSection
+EndGlobal
